@@ -1,0 +1,16 @@
+{
+  "name": "protector",
+  "version": "1.0.0",
+  "description": "Protector - The ultimate shield for your crypto assets",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": ["crypto", "security", "web3", "blockchain"],
+  "author": "Protector",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
